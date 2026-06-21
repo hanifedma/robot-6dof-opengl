@@ -10,9 +10,11 @@ Engineering, **Universitas Indonesia** (2022).
 
 ## Demo
 
-<video src="https://github.com/hanifedma/robot-6dof-opengl/raw/master/demo.mp4"
-       poster="https://github.com/hanifedma/robot-6dof-opengl/raw/master/poster.jpg"
-       autoplay loop muted playsinline controls width="640"></video>
+
+
+https://github.com/user-attachments/assets/00ffaaf4-9d78-448d-9c16-bd575da56790
+
+
 
 > If the player above doesn't load, watch it here: [demo.mp4](https://github.com/hanifedma/robot-6dof-opengl/raw/master/demo.mp4)
 
