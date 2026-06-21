@@ -10,7 +10,11 @@ Engineering, **Universitas Indonesia** (2022).
 
 ## Demo
 
-See [`demo.mp4`](demo.mp4) for a screen recording of the arm tracing trajectories.
+<video src="https://github.com/hanifedma/robot-6dof-opengl/raw/master/demo.mp4"
+       poster="https://github.com/hanifedma/robot-6dof-opengl/raw/master/poster.jpg"
+       autoplay loop muted playsinline controls width="640"></video>
+
+> If the player above doesn't load, watch it here: [demo.mp4](https://github.com/hanifedma/robot-6dof-opengl/raw/master/demo.mp4)
 
 ## Features
 
