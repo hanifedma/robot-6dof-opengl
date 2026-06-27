@@ -12,7 +12,9 @@ Engineering, **Universitas Indonesia** (2022).
 
 
 
-https://github.com/user-attachments/assets/00ffaaf4-9d78-448d-9c16-bd575da56790
+
+https://github.com/user-attachments/assets/04cfe9bf-29ff-4a36-bf6e-e58474f7bd6a
+
 
 
 
