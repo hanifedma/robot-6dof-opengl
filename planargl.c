@@ -37,12 +37,12 @@ GLUquadricObj *obj;
 
 
 float d0 = 10 * 10e-3 * 0.5;
-float a1 = 20 * 10e-3 * 0.5;
-float a2 = 130 * 2 * 10e-3 * 0.5;
-float a3 = 20 * 10e-3 * 0.5;
-float d4 = 150 * 2 * 10e-3 * 0.5; 
+float a1 = 120 * 10e-3 * 0.5;
+float a2 = 120 * 10e-3 * 0.5;
+float a3 = 120 * 10e-3 * 0.5;
+float d4 = 120 * 10e-3 * 0.5; 
 float a5 = 0 * 10e-3 * 0.5;
-float d6 = 12.5 * 10e-3 * 0.5;
+float d6 = 120 * 10e-3 * 0.5;
 
 float fkine_x;
 float fkine_y;
